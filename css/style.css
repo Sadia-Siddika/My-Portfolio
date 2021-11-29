@@ -43,7 +43,7 @@ body{
 }
 
 section{
-    min-height: 100vh;
+    min-height: 30vh;
     padding:1rem;
 }
 
@@ -362,6 +362,7 @@ header .navbar ul li a:hover{
     color:#eee;
     padding:1rem 0;
     font-weight: normal;
+    text-transform: lowercase;
 }
 
 .contact .row .content .info h3 i{
